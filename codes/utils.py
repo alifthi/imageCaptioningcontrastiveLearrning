@@ -11,3 +11,5 @@ class Utils:
         pass
     def textTokenization(self):
         pass
+    def description(self):
+        pass
